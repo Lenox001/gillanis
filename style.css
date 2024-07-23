@@ -1,0 +1,53 @@
+h1{
+    color: brown;
+    font-family: cursive;
+    font-weight: bolder;
+    font-style: oblique;
+
+}
+
+
+h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    color: goldenrod;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+
+}
+body{
+    font-family: cursive;
+    color:black;
+  
+    
+}
+img{
+    border: 5px , solid , brown;
+    border-radius: 500px;
+}
+button{
+    float: left;
+}
+input{
+    display: flex;
+    font-family: cursive;
+}
+select{
+    display: flex;
+    color:blueviolet;
+    font-family: cursive;
+}
+footer{
+    text-align: center;
+    color: blueviolet;
+    background-color: bisque;
+}
+table{
+    border: 1px , solid , black;
+    padding: 5px;
+    border-collapse: collapse;
+}
+td , th{
+    border: 1px , solid ,black;
+    padding: 5px;
+}
